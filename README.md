@@ -1,2 +1,6 @@
 # handyTodo
-A todo  webapp made using django and reactJs , basiacally an API for handy uses
+A todo  webapp made using django and reactJs , basically an API for handy uses
+
+# Video Demo
+
+![](todo-demo.gif)
